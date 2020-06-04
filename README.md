@@ -4,3 +4,4 @@
 	- git push
 	- git fetch
 	- git config --user.name
+	- git get it together dude
