@@ -5,3 +5,4 @@
 	- git fetch
 	- git config --user.name
 	- git get it together dude
+	- last update from remote is not recognized by local
